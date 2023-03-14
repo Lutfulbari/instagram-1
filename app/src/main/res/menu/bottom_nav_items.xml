@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:title="HOME"
+        android:icon="@drawable/bhome"
+        android:checkable="true"
+
+        />
+
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/bserch"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/Plus"
+        android:title="PLUS"
+        android:icon="@drawable/bpl"
+        android:checkable="true"
+
+
+        />
+    <item
+        android:id="@+id/reel"
+        android:title="REEL"
+        android:icon="@drawable/breel"
+        android:checkable="true"
+
+
+        />
+        <item
+            android:id="@+id/profile"
+            android:title="PROFILE"
+            android:icon="@drawable/mu"
+            android:checkable="true"
+
+            />
+
+</menu>

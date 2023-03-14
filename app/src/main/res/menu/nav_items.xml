@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/SettingsAndPrivacy"
+        android:title="Settings and privacy"
+        android:icon="@drawable/baseline_home_24"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/YourActivity"
+        android:title="Activity"
+        android:icon="@drawable/baseline_av_timer_24"
+        android:checkable="true"
+
+        />
+
+    <item
+        android:id="@+id/Archive"
+        android:title="Archive"
+        android:icon="@drawable/baseline_access_time_24"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/QRCode"
+        android:title="QR code"
+        android:icon="@drawable/baseline_av_timer_24"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/Saved"
+        android:title="Saved"
+        android:icon="@drawable/baseline_settings_24"
+        android:checkable="true"
+
+        />
+ <item
+        android:id="@+id/OrderAndPayments"
+        android:title="Order and payments"
+        android:icon="@drawable/baseline_payment_24"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/DigitalCollectibles"
+        android:title="Digital collectibles"
+        android:icon="@drawable/baseline_check_circle_outline_24"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/CloseFriends"
+        android:title="Close friends"
+        android:icon="@drawable/baseline_menu_open_24"
+        android:checkable="true"
+
+        />
+    <item
+        android:id="@+id/Favourites"
+        android:title="Favourites"
+        android:icon="@drawable/baseline_star_outline_24"
+        android:checkable="true"
+
+        />
+
+
+</menu>
